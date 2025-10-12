@@ -38,7 +38,7 @@ quote_text = selected.get("quote", "...")
 author_text = selected.get("author")
 quote_block = f"> *{quote_text}*"
 if author_text:
-    quote_block += f"\n> — *{author_text}*"
+    quote_block += f"\n> — **{author_text}**"
 
 with readme_path.open("r", encoding="utf-8") as f:
     content = f.read()
