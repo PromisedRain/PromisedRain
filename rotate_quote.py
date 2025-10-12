@@ -39,15 +39,19 @@ author_text = selected.get("author", "").strip()
 
 if quote_text and quote_text[-1] not in ".!?…":
     quote_text += "."
-
 if author_text and author_text[-1] not in ".!?…":
     author_text += "."
 
-if author_text:
-    quote_block = f"> *{quote_text}*  \n> — **{author_text}**"
-else:
-    quote_block = f"> *{quote_text}*"
+#if author_text:
+#    quote_block = f"> *{quote_text}*  \n> — **{author_text}**"
+#else:
+#    quote_block = f"> *{quote_text}*"
 
+formatted_quote = "\n".join(f"> {line}" if line.strip() else ">" for line in quote_text.split("\n"))
+if author_text:
+    quote_block = f"{formatted_quote}\n> — **{author_text}**"
+else:
+    quote_block = formatted_quote
 
 with readme_path.open("r", encoding="utf-8") as f:
     content = f.read()
