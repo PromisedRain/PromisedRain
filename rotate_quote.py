@@ -43,9 +43,11 @@ if quote_text and quote_text[-1] not in ".!?…":
 if author_text and author_text[-1] not in ".!?…":
     author_text += "."
 
-quote_block = f"> *{quote_text}*\n"
 if author_text:
-    quote_block += f"\n> — **{author_text}**"
+    quote_block = f"> *{quote_text}*\n> — **{author_text}**"
+else:
+    quote_block = f"> *{quote_text}*"
+
 
 with readme_path.open("r", encoding="utf-8") as f:
     content = f.read()
