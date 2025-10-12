@@ -44,7 +44,7 @@ with readme_path.open("r", encoding="utf-8") as f:
     content = f.read()
 
 pattern = r"(<!--QUOTE_START-->)(.*?)(<!--QUOTE_END-->)"
-new_content = re.sub(pattern, f"\\1\n{quote_block}\n\\3", content, flags=re.DOTALL)
+new_content = re.sub(pattern, f"\\1\n{quote_block}.\n\\3", content, flags=re.DOTALL)
 
 timestamp = f"<!-- last updated: {datetime.now(timezone.utc).isoformat()} -->"
 if "<!-- last updated:" in new_content:
