@@ -2,6 +2,7 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *To come to acceptance with things and feelings is rare, and to accept and embrace them completely is a miracle. It's impossible to make that moment come faster by yourself. Someday, it may come unexpectedly. In order to not become warped or heartless, let it go in a natural way; let yourself feel sad when you are and let yourself forget when you do.*
-> - Houseki no Kuni, Haruko Ichikawa.
+> *Eternity means nothing to me in a world where I don't exist anymore*
+> — *Three Days of Happiness, Sugaru Miaki*
 <!--QUOTE_END-->
+<!-- last updated: 2025-10-12T04:45:39.810284+00:00 -->
