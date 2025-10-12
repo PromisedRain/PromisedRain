@@ -9,12 +9,14 @@ quotes_path = Path("quotes.json")
 cache_path = Path(".quote_cache.json")
 readme_path = Path("README.md")
 
+
 with quotes_path.open("r", encoding="utf-8") as f:
     quotes = json.load(f)
 
 if not quotes:
     raise ValueError("quotes.json is empty!")
 
+# get previous quote idx
 last_index = None
 if cache_path.exists():
     try:
@@ -37,21 +39,32 @@ with cache_path.open("w", encoding="utf-8") as f:
 quote_text = selected.get("quote", "...").strip()
 author_text = selected.get("author", "").strip()
 
-if quote_text and quote_text[-1] not in ".!?…":
-    quote_text += "."
-if author_text and author_text[-1] not in ".!?…":
-    author_text += "."
-
 #if author_text:
 #    quote_block = f"> *{quote_text}*  \n> — **{author_text}**"
 #else:
 #    quote_block = f"> *{quote_text}*"
 
-formatted_quote = "\n".join(f"> {line}" if line.strip() else ">" for line in quote_text.split("\n"))
+if quote_text and quote_text[-1] not in ".!?…":
+    quote_text += "."
+if author_text and author_text[-1] not in ".!?…":
+    author_text += "."
+
+
+paragraphs = quote_text.split("\n\n")
+quote_lines = []
+
+for para in paragraphs:
+    lines = para.split("\n")
+    for line in lines:
+        if line.strip():
+            quote_lines.append(f"> *{line.strip()}*  ")
+    quote_lines.append(">")
+
 if author_text:
-    quote_block = f"{formatted_quote}\n> — **{author_text}**"
-else:
-    quote_block = formatted_quote
+    quote_lines.append(">")
+    quote_lines.append(f"> — **{author_text}**")
+
+quote_block = "\n".join(quote_lines)
 
 with readme_path.open("r", encoding="utf-8") as f:
     content = f.read()
