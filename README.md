@@ -2,7 +2,7 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *To come to acceptance with things and feelings is rare, and to accept and embrace them completely is a miracle. It's impossible to make that moment come faster by yourself. Someday, it may come unexpectedly. In order to not become warped or heartless, let it go in a natural way; let yourself feel sad when you are and let yourself forget when you do.*
-> — *Houseki no Kuni, Haruko Ichikawa*.
+> *We never forget what we endeavor to forget.*
+> — *Nietzsche*.
 <!--QUOTE_END-->
-<!-- last updated: 2025-10-12T08:03:59.649540+00:00 -->
+<!-- last updated: 2025-10-12T07:59:45.703029+00:00 -->
