@@ -34,9 +34,16 @@ selected = quotes[selected_index]
 with cache_path.open("w", encoding="utf-8") as f:
     json.dump({"last_index": selected_index}, f)
 
-quote_text = selected.get("quote", "...")
-author_text = selected.get("author")
-quote_block = f"> *{quote_text}*"
+quote_text = selected.get("quote", "...").strip()
+author_text = selected.get("author", "").strip()
+
+if quote_text and quote_text[-1] not in ".!?…":
+    quote_text += "."
+
+if author_text and author_text[-1] not in ".!?…":
+    author_text += "."
+
+quote_block = f"> *{quote_text}*\n"
 if author_text:
     quote_block += f"\n> — **{author_text}**"
 
@@ -44,7 +51,7 @@ with readme_path.open("r", encoding="utf-8") as f:
     content = f.read()
 
 pattern = r"(<!--QUOTE_START-->)(.*?)(<!--QUOTE_END-->)"
-new_content = re.sub(pattern, f"\\1\n{quote_block}.\n\\3", content, flags=re.DOTALL)
+new_content = re.sub(pattern, f"\\1\n{quote_block}\n\\3", content, flags=re.DOTALL)
 
 timestamp = f"<!-- last updated: {datetime.now(timezone.utc).isoformat()} -->"
 if "<!-- last updated:" in new_content:
