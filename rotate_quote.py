@@ -44,7 +44,7 @@ if author_text and author_text[-1] not in ".!?…":
     author_text += "."
 
 if author_text:
-    quote_block = f"> *{quote_text}*\n> — **{author_text}**"
+    quote_block = f"> *{quote_text}*  \n> — **{author_text}**"
 else:
     quote_block = f"> *{quote_text}*"
 
