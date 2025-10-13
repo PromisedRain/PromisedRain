@@ -2,13 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *I believe those three days,*  
-> *compared to the tragic thirty years I would have lived,*
->
-> *compared to the worthwhile thirty days I would have lived,*  
-> *were of much, much more value.*
+> *It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of light, it was the season of darkness, it was the spring of hope, it was the winter of despair.*  
 >
 >
-> — **Sugaru Miaki, Three Days of Happiness.**
+> — **Charles Dickens, A Tale of Two Cities.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-10-12T13:59:00.676371+00:00 -->
+<!-- last updated: 2025-10-13T01:04:58.166357+00:00 -->
