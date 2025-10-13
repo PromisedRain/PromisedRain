@@ -2,9 +2,13 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *At the end of the day, there's no one right way to live our lives, the best we can do is pick a path and run down it as fast as we can to see how far we can get in the time that's given to us.*  
+> *Humans are like isolated islands, floating in the sea of fate.*  
+>
+> *Human encounters are like the collision of these lonely islands, and once they touch, there would be an effect. Sometimes, the islands would stick together, in the name of "interest", "kinship", "friendship", "love" and "hate". But eventually, they would separate, walking towards the path of destruction.*  
+>
+> *This is the truth behind life.*  
 >
 >
-> — **The Tunnel To Summer, The Exit of Goodbyes.**
+> — **Gu Zhen Re, Reverend Insanity.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-10-13T01:05:34.062987+00:00 -->
+<!-- last updated: 2025-10-13T13:49:37.411430+00:00 -->
