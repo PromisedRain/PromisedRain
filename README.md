@@ -2,9 +2,13 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *To come to acceptance with things and feelings is rare, and to accept and embrace them completely is a miracle. It's impossible to make that moment come faster by yourself. Someday, it may come unexpectedly. In order to not become warped or heartless, let it go in a natural way; let yourself feel sad when you are and let yourself forget when you do.*  
+> *Humans are like isolated islands, floating in the sea of fate.*  
+>
+> *Human encounters are like the collision of these lonely islands, and once they touch, there would be an effect. Sometimes, the islands would stick together, in the name of "interest", "kinship", "friendship", "love" and "hate". But eventually, they would separate, walking towards the path of destruction.*  
+>
+> *This is the truth behind life.*  
 >
 >
-> — **Haruko Ichikawa, Houseki no Kuni.**
+> — **Gu Zhen Re, Reverend Insanity.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-10-16T03:53:46.303021+00:00 -->
+<!-- last updated: 2025-10-17T01:48:26.244733+00:00 -->
