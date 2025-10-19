@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Perhaps she will be a butterfly resting upon the lip of a flower.*  
-> *Perhaps she will be that flower.*  
-> *Perhaps she will be the breeze in which that flower sways.*  
+> *I wonder why god planted the tree of knowledge in the garden of Eden? it's as if he's telling them to eat it.*  
 >
+>
+> — **Tokyo Ghoul.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-10-18T01:43:46.092216+00:00 -->
+<!-- last updated: 2025-10-19T02:00:44.653896+00:00 -->
