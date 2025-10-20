@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *A prayer cannot be born out of those who know nothing but joy. Oh child of suffering, cursing life itself... Certainly there is something only you can do.*  
+> *To come to acceptance with things and feelings is rare, and to accept and embrace them completely is a miracle. It's impossible to make that moment come faster by yourself. Someday, it may come unexpectedly. In order to not become warped or heartless, let it go in a natural way; let yourself feel sad when you are and let yourself forget when you do.*  
 >
 >
-> — **Made in Abyss.**
+> — **Haruko Ichikawa, Houseki no Kuni.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-10-19T21:10:42.797391+00:00 -->
+<!-- last updated: 2025-10-20T01:57:56.005294+00:00 -->
