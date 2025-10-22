@@ -2,9 +2,7 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *We never forget what we endeavor to forget.*  
+> *Never regret thy fall, O Icarus of the fearless flight, for the greatest tragedy of them all, is never to feel the burning light.*  
 >
->
-> — **Nietzsche.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-10-21T01:51:50.038269+00:00 -->
+<!-- last updated: 2025-10-22T01:55:00.562671+00:00 -->
