@@ -2,9 +2,7 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *At the end of the day, there's no one right way to live our lives, the best we can do is pick a path and run down it as fast as we can to see how far we can get in the time that's given to us.*  
+> *Never regret thy fall, O Icarus of the fearless flight, for the greatest tragedy of them all, is never to feel the burning light.*  
 >
->
-> — **The Tunnel To Summer, The Exit of Goodbyes.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-10-26T01:56:59.607687+00:00 -->
+<!-- last updated: 2025-10-27T02:01:13.910867+00:00 -->
