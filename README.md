@@ -11,6 +11,6 @@ working quietly on ████.
 > *But because I want to see it too.*  
 >
 >
-> — **The House in Fata Morgana.**
+> — **The House in Fata Morgana: A Requiem for Innocence.**
 <!--QUOTE_END-->
 <!-- last updated: 2025-10-31T23:27:07.844458+00:00 -->
