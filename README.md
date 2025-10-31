@@ -3,8 +3,8 @@ working quietly on ████.
 
 <!--QUOTE_START-->
 > *Rather than showing you the world.*  
-> *One day-*  
-> *Someday-*  
+> *One day—*  
+> *Someday—*  
 > *I'd like to bring you somewhere.*  
 > *Where your body and spirit can rest easy.*  
 > *Not as atonement for my sins,*  
