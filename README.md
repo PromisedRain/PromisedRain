@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *A prayer cannot be born out of those who know nothing but joy. Oh child of suffering, cursing life itself... Certainly there is something only you can do.*  
+> *It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of light, it was the season of darkness, it was the spring of hope, it was the winter of despair.*  
 >
 >
-> — **Made in Abyss.**
+> — **Charles Dickens, A Tale of Two Cities.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-10-31T23:23:17.627100+00:00 -->
+<!-- last updated: 2025-10-31T23:23:34.809383+00:00 -->
