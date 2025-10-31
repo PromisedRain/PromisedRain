@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *We never forget what we endeavor to forget.*  
+> *I wonder why god planted the tree of knowledge in the garden of Eden? it's as if he's telling them to eat it.*  
 >
 >
-> — **Nietzsche.**
+> — **Tokyo Ghoul.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-10-31T23:23:43.982011+00:00 -->
+<!-- last updated: 2025-10-31T23:24:03.723081+00:00 -->
