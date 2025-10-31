@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *I wonder why god planted the tree of knowledge in the garden of Eden? it's as if he's telling them to eat it.*  
+> *I said that the world is absurd, but I was too hasty. This world in itself is not reasonable, that is all that can be said. But what is absurd is the confrontation of this irrational and the wild longing for clarity whose call echoes in the human heart. The absurd depends as much on man as on the world.*  
 >
 >
-> — **Tokyo Ghoul.**
+> — **Albert Camus, The Myth of Sisyphus.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-10-31T23:24:03.723081+00:00 -->
+<!-- last updated: 2025-10-31T23:24:20.095625+00:00 -->
