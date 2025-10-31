@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Eternity means nothing to me in a world where I don't exist anymore.*  
+> *We never forget what we endeavor to forget.*  
 >
 >
-> — **Sugaru Miaki, Three Days of Happiness.**
+> — **Nietzsche.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-10-31T01:53:51.330635+00:00 -->
+<!-- last updated: 2025-10-31T23:22:48.348385+00:00 -->
