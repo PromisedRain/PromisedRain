@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of light, it was the season of darkness, it was the spring of hope, it was the winter of despair.*  
+> *We never forget what we endeavor to forget.*  
 >
 >
-> — **Charles Dickens, A Tale of Two Cities.**
+> — **Nietzsche.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-10-31T23:23:34.809383+00:00 -->
+<!-- last updated: 2025-10-31T23:23:43.982011+00:00 -->
