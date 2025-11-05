@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *You've also seen from Roselle's experience during this time that there is a lot of truth within dreams, that hope lies hidden at the end of despair, and that a moment's brilliance might point towards eternity.*  
+> *Eternity means nothing to me in a world where I don't exist anymore.*  
 >
 >
-> — **Cuttlefish That Loves Diving, Lord of the Mysteries.**
+> — **Sugaru Miaki, Three Days of Happiness.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-11-04T01:54:34.752079+00:00 -->
+<!-- last updated: 2025-11-05T01:55:45.873113+00:00 -->
