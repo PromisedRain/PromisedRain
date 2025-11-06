@@ -2,9 +2,7 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Eternity means nothing to me in a world where I don't exist anymore.*  
+> *Never regret thy fall, O Icarus of the fearless flight, for the greatest tragedy of them all, is never to feel the burning light.*  
 >
->
-> — **Sugaru Miaki, Three Days of Happiness.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-11-05T01:55:45.873113+00:00 -->
+<!-- last updated: 2025-11-06T01:55:55.073077+00:00 -->
