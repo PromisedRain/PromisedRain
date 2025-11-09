@@ -2,15 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Rather than showing you the world.*  
-> *One day—*  
-> *Someday—*  
-> *I'd like to bring you somewhere.*  
-> *Where your body and spirit can rest easy.*  
-> *Not as atonement for my sins,*  
-> *But because I want to see it too.*  
+> *The jian, also known as the "bird that shares wings", only possesses one wing. Unless a male and female pair learn to lean on each other and act as one, they’re incapable of flight. They’re imperfect, incomplete creatures. But for some reason… their way of life struck me as profoundly beautiful.*  
 >
 >
-> — **The House in Fata Morgana: A Requiem for Innocence.**
+> — **Darling in the Franxx.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-11-08T01:48:30.577294+00:00 -->
+<!-- last updated: 2025-11-09T01:58:36.112722+00:00 -->
