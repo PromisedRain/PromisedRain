@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *The jian, also known as the "bird that shares wings", only possesses one wing. Unless a male and female pair learn to lean on each other and act as one, they’re incapable of flight. They’re imperfect, incomplete creatures. But for some reason… their way of life struck me as profoundly beautiful.*  
+> *Eternity means nothing to me in a world where I don't exist anymore.*  
 >
 >
-> — **Darling in the Franxx.**
+> — **Sugaru Miaki, Three Days of Happiness.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-11-09T01:58:36.112722+00:00 -->
+<!-- last updated: 2025-11-10T02:00:11.585854+00:00 -->
