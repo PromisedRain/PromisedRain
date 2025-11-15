@@ -2,11 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Remember what someone told you not long ago?*  
-> *That you could handle the stories because they weren't your own. That you were able to bear the tragedies because they happened to others.*  
-> *If that had been your suffering... if the secrets you had kept buried away for so long had come out... you couldn't possibly have endured it.*  
+> *At the end of the day, there's no one right way to live our lives, the best we can do is pick a path and run down it as fast as we can to see how far we can get in the time that's given to us.*  
 >
 >
-> — **The House in Fata Morgana.**
+> — **The Tunnel To Summer, The Exit of Goodbyes.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-11-14T01:56:17.214331+00:00 -->
+<!-- last updated: 2025-11-15T01:52:18.256494+00:00 -->
