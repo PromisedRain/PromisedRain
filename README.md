@@ -2,9 +2,11 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *At the end of the day, there's no one right way to live our lives, the best we can do is pick a path and run down it as fast as we can to see how far we can get in the time that's given to us.*  
+> *Perhaps she will be a butterfly resting upon the lip of a flower.*  
+> *Perhaps she will be that flower.*  
+> *Perhaps she will be the breeze in which that flower sways.*  
 >
 >
-> — **The Tunnel To Summer, The Exit of Goodbyes.**
+> — **The House in Fata Morgana.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-11-15T01:52:18.256494+00:00 -->
+<!-- last updated: 2025-11-16T02:02:04.627483+00:00 -->
