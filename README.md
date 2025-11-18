@@ -2,9 +2,11 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *We never forget what we endeavor to forget.*  
+> *Perhaps she will be a butterfly resting upon the lip of a flower.*  
+> *Perhaps she will be that flower.*  
+> *Perhaps she will be the breeze in which that flower sways.*  
 >
 >
-> — **Nietzsche.**
+> — **The House in Fata Morgana.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-11-17T01:57:07.323323+00:00 -->
+<!-- last updated: 2025-11-18T01:55:32.473332+00:00 -->
