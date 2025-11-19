@@ -2,11 +2,15 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Perhaps she will be a butterfly resting upon the lip of a flower.*  
-> *Perhaps she will be that flower.*  
-> *Perhaps she will be the breeze in which that flower sways.*  
+> *Rather than showing you the world.*  
+> *One day—*  
+> *Someday—*  
+> *I'd like to bring you somewhere.*  
+> *Where your body and spirit can rest easy.*  
+> *Not as atonement for my sins,*  
+> *But because I want to see it too.*  
 >
 >
-> — **The House in Fata Morgana.**
+> — **The House in Fata Morgana: A Requiem for Innocence.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-11-18T01:55:32.473332+00:00 -->
+<!-- last updated: 2025-11-19T01:55:25.861011+00:00 -->
