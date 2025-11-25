@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Eternity means nothing to me in a world where I don't exist anymore.*  
+> *We are guardians, but also a bunch of miserable wretches that are constantly fighting against threats and madness.*  
 >
 >
-> — **Sugaru Miaki, Three Days of Happiness.**
+> — **Cuttlefish That Loves Diving, Lord of the Mysteries.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-11-24T02:03:40.899248+00:00 -->
+<!-- last updated: 2025-11-25T01:56:55.514378+00:00 -->
