@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *To come to acceptance with things and feelings is rare, and to accept and embrace them completely is a miracle. It's impossible to make that moment come faster by yourself. Someday, it may come unexpectedly. In order to not become warped or heartless, let it go in a natural way; let yourself feel sad when you are and let yourself forget when you do.*  
+> *We are guardians, but also a bunch of miserable wretches that are constantly fighting against threats and madness.*  
 >
 >
-> — **Haruko Ichikawa, 宝石の国 [Houseki No Kuni].**
+> — **Cuttlefish That Loves Diving, Lord of the Mysteries.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-11-26T01:56:58.712341+00:00 -->
+<!-- last updated: 2025-11-27T01:54:37.009783+00:00 -->
