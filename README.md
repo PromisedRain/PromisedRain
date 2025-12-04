@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *We never forget what we endeavor to forget.*  
+> *You've also seen from Roselle's experience during this time that there is a lot of truth within dreams, that hope lies hidden at the end of despair, and that a moment's brilliance might point towards eternity.*  
 >
 >
-> — **Nietzsche.**
+> — **Cuttlefish That Loves Diving, Lord of the Mysteries.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-12-03T01:58:16.515357+00:00 -->
+<!-- last updated: 2025-12-04T01:59:35.069473+00:00 -->
