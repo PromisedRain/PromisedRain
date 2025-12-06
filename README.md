@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *At the end of the day, there's no one right way to live our lives, the best we can do is pick a path and run down it as fast as we can to see how far we can get in the time that's given to us.*  
+> *I wonder why god planted the tree of knowledge in the garden of Eden? it's as if he's telling them to eat it.*  
 >
 >
-> — **The Tunnel To Summer, The Exit of Goodbyes.**
+> — **Tokyo Ghoul.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-12-05T01:59:49.550648+00:00 -->
+<!-- last updated: 2025-12-06T01:53:21.567522+00:00 -->
