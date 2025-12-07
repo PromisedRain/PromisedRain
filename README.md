@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *I wonder why god planted the tree of knowledge in the garden of Eden? it's as if he's telling them to eat it.*  
+> *A prayer cannot be born out of those who know nothing but joy. Oh child of suffering, cursing life itself... Certainly there is something only you can do.*  
 >
 >
-> — **Tokyo Ghoul.**
+> — **Made in Abyss.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-12-06T01:53:21.567522+00:00 -->
+<!-- last updated: 2025-12-07T02:08:53.830918+00:00 -->
