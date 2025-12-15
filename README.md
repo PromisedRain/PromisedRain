@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *To come to acceptance with things and feelings is rare, and to accept and embrace them completely is a miracle. It's impossible to make that moment come faster by yourself. Someday, it may come unexpectedly. In order to not become warped or heartless, let it go in a natural way; let yourself feel sad when you are and let yourself forget when you do.*  
+> *Someone like you, who is beloved even on the moon, could never understand what it feels like to be lonely.*  
 >
 >
 > — **Haruko Ichikawa, 宝石の国 [Houseki No Kuni].**
 <!--QUOTE_END-->
-<!-- last updated: 2025-12-14T02:09:11.193137+00:00 -->
+<!-- last updated: 2025-12-15T02:06:51.502157+00:00 -->
