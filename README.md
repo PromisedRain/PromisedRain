@@ -2,15 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Rather than showing you the world.*  
-> *One day—*  
-> *Someday—*  
-> *I'd like to bring you somewhere.*  
-> *Where your body and spirit can rest easy.*  
-> *Not as atonement for my sins,*  
-> *But because I want to see it too.*  
+> *It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of light, it was the season of darkness, it was the spring of hope, it was the winter of despair.*  
 >
 >
-> — **The House in Fata Morgana: A Requiem for Innocence.**
+> — **Charles Dickens, A Tale of Two Cities.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-12-16T02:03:26.769651+00:00 -->
+<!-- last updated: 2025-12-17T01:58:40.069071+00:00 -->
