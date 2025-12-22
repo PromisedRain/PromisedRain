@@ -2,15 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Rather than showing you the world.*  
-> *One day—*  
-> *Someday—*  
-> *I'd like to bring you somewhere.*  
-> *Where your body and spirit can rest easy.*  
-> *Not as atonement for my sins,*  
-> *But because I want to see it too.*  
+> *Someone like you, who is beloved even on the moon, could never understand what it feels like to be lonely.*  
 >
 >
-> — **The House in Fata Morgana: A Requiem for Innocence.**
+> — **Haruko Ichikawa, 宝石の国 [Houseki No Kuni].**
 <!--QUOTE_END-->
-<!-- last updated: 2025-12-21T02:09:18.245289+00:00 -->
+<!-- last updated: 2025-12-22T02:08:30.933162+00:00 -->
