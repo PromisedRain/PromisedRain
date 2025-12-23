@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Someone like you, who is beloved even on the moon, could never understand what it feels like to be lonely.*  
+> *It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of light, it was the season of darkness, it was the spring of hope, it was the winter of despair.*  
 >
 >
-> — **Haruko Ichikawa, 宝石の国 [Houseki No Kuni].**
+> — **Charles Dickens, A Tale of Two Cities.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-12-22T02:08:30.933162+00:00 -->
+<!-- last updated: 2025-12-23T02:03:45.187803+00:00 -->
