@@ -2,13 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *I believe those three days,*  
-> *compared to the tragic thirty years I would have lived,*  
->
-> *compared to the worthwhile thirty days I would have lived,*  
-> *were of much, much more value.*  
+> *Eternity means nothing to me in a world where I don't exist anymore.*  
 >
 >
 > — **Sugaru Miaki, Three Days of Happiness.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-12-24T02:01:50.649044+00:00 -->
+<!-- last updated: 2025-12-25T02:04:04.170577+00:00 -->
