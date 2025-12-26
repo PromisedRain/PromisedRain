@@ -2,9 +2,11 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Eternity means nothing to me in a world where I don't exist anymore.*  
+> *Perhaps she will be a butterfly resting upon the lip of a flower.*  
+> *Perhaps she will be that flower.*  
+> *Perhaps she will be the breeze in which that flower sways.*  
 >
 >
-> — **Sugaru Miaki, Three Days of Happiness.**
+> — **The House in Fata Morgana.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-12-25T02:04:04.170577+00:00 -->
+<!-- last updated: 2025-12-26T02:03:02.780211+00:00 -->
