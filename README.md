@@ -2,11 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Perhaps she will be a butterfly resting upon the lip of a flower.*  
-> *Perhaps she will be that flower.*  
-> *Perhaps she will be the breeze in which that flower sways.*  
+> *We are guardians, but also a bunch of miserable wretches that are constantly fighting against threats and madness.*  
 >
 >
-> — **The House in Fata Morgana.**
+> — **Cuttlefish That Loves Diving, Lord of the Mysteries.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-12-26T02:03:02.780211+00:00 -->
+<!-- last updated: 2025-12-27T02:00:50.299715+00:00 -->
