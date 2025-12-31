@@ -2,11 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Remember what someone told you not long ago?*  
-> *That you could handle the stories because they weren't your own. That you were able to bear the tragedies because they happened to others.*  
-> *If that had been your suffering... if the secrets you had kept buried away for so long had come out... you couldn't possibly have endured it.*  
+> *Eternity means nothing to me in a world where I don't exist anymore.*  
 >
 >
-> — **The House in Fata Morgana.**
+> — **Sugaru Miaki, Three Days of Happiness.**
 <!--QUOTE_END-->
-<!-- last updated: 2025-12-30T02:04:41.509648+00:00 -->
+<!-- last updated: 2025-12-31T02:04:55.078236+00:00 -->
