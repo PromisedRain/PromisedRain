@@ -2,9 +2,15 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *You've also seen from Roselle's experience during this time that there is a lot of truth within dreams, that hope lies hidden at the end of despair, and that a moment's brilliance might point towards eternity.*  
+> *Rather than showing you the world.*  
+> *One day—*  
+> *Someday—*  
+> *I'd like to bring you somewhere.*  
+> *Where your body and spirit can rest easy.*  
+> *Not as atonement for my sins,*  
+> *But because I want to see it too.*  
 >
 >
-> — **Cuttlefish That Loves Diving, Lord of the Mysteries.**
+> — **The House in Fata Morgana: A Requiem for Innocence.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-01-02T02:06:24.142712+00:00 -->
+<!-- last updated: 2026-01-03T01:59:53.810003+00:00 -->
