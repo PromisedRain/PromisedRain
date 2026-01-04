@@ -2,15 +2,7 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Rather than showing you the world.*  
-> *One day—*  
-> *Someday—*  
-> *I'd like to bring you somewhere.*  
-> *Where your body and spirit can rest easy.*  
-> *Not as atonement for my sins,*  
-> *But because I want to see it too.*  
+> *Never regret thy fall, O Icarus of the fearless flight, for the greatest tragedy of them all, is never to feel the burning light.*  
 >
->
-> — **The House in Fata Morgana: A Requiem for Innocence.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-01-03T01:59:53.810003+00:00 -->
+<!-- last updated: 2026-01-04T02:23:11.981323+00:00 -->
