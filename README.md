@@ -2,9 +2,15 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *I said that the world is absurd, but I was too hasty. This world in itself is not reasonable, that is all that can be said. But what is absurd is the confrontation of this irrational and the wild longing for clarity whose call echoes in the human heart. The absurd depends as much on man as on the world.*  
+> *Rather than showing you the world.*  
+> *One day—*  
+> *Someday—*  
+> *I'd like to bring you somewhere.*  
+> *Where your body and spirit can rest easy.*  
+> *Not as atonement for my sins,*  
+> *But because I want to see it too.*  
 >
 >
-> — **Albert Camus, The Myth of Sisyphus.**
+> — **The House in Fata Morgana: A Requiem for Innocence.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-01-07T02:06:09.597618+00:00 -->
+<!-- last updated: 2026-01-08T02:06:05.501829+00:00 -->
