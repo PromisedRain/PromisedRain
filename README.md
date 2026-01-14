@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *I said that the world is absurd, but I was too hasty. This world in itself is not reasonable, that is all that can be said. But what is absurd is the confrontation of this irrational and the wild longing for clarity whose call echoes in the human heart. The absurd depends as much on man as on the world.*  
+> *Someone like you, who is beloved even on the moon, could never understand what it feels like to be lonely.*  
 >
 >
-> — **Albert Camus, The Myth of Sisyphus.**
+> — **Haruko Ichikawa, 宝石の国 [Houseki No Kuni].**
 <!--QUOTE_END-->
-<!-- last updated: 2026-01-13T02:03:53.344739+00:00 -->
+<!-- last updated: 2026-01-14T02:11:10.472961+00:00 -->
