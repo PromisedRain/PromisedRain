@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *We never forget what we endeavor to forget.*  
+> *Someone like you, who is beloved even on the moon, could never understand what it feels like to be lonely.*  
 >
 >
-> — **Nietzsche.**
+> — **Haruko Ichikawa, 宝石の国 [Houseki No Kuni].**
 <!--QUOTE_END-->
-<!-- last updated: 2026-01-17T02:01:47.147181+00:00 -->
+<!-- last updated: 2026-01-18T02:21:36.293195+00:00 -->
