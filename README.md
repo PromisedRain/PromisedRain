@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *The jian, also known as the "bird that shares wings", only possesses one wing. Unless a male and female pair learn to lean on each other and act as one, they’re incapable of flight. They’re imperfect, incomplete creatures. But for some reason… their way of life struck me as profoundly beautiful.*  
+> *Someone like you, who is beloved even on the moon, could never understand what it feels like to be lonely.*  
 >
 >
-> — **Darling in the Franxx.**
+> — **Haruko Ichikawa, 宝石の国 [Houseki No Kuni].**
 <!--QUOTE_END-->
-<!-- last updated: 2026-01-20T02:07:37.900365+00:00 -->
+<!-- last updated: 2026-01-21T02:10:46.769437+00:00 -->
