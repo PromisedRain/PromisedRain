@@ -2,9 +2,11 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *I said that the world is absurd, but I was too hasty. This world in itself is not reasonable, that is all that can be said. But what is absurd is the confrontation of this irrational and the wild longing for clarity whose call echoes in the human heart. The absurd depends as much on man as on the world.*  
+> *Remember what someone told you not long ago?*  
+> *That you could handle the stories because they weren't your own. That you were able to bear the tragedies because they happened to others.*  
+> *If that had been your suffering... if the secrets you had kept buried away for so long had come out... you couldn't possibly have endured it.*  
 >
 >
-> — **Albert Camus, The Myth of Sisyphus.**
+> — **The House in Fata Morgana.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-01-22T02:12:09.225552+00:00 -->
+<!-- last updated: 2026-01-23T02:07:25.255929+00:00 -->
