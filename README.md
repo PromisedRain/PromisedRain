@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *At the end of the day, there's no one right way to live our lives, the best we can do is pick a path and run down it as fast as we can to see how far we can get in the time that's given to us.*  
+> *The jian, also known as the "bird that shares wings", only possesses one wing. Unless a male and female pair learn to lean on each other and act as one, they’re incapable of flight. They’re imperfect, incomplete creatures. But for some reason… their way of life struck me as profoundly beautiful.*  
 >
 >
-> — **The Tunnel To Summer, The Exit of Goodbyes.**
+> — **Darling in the Franxx.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-01-28T02:10:22.145647+00:00 -->
+<!-- last updated: 2026-01-29T02:32:09.405573+00:00 -->
