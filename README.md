@@ -2,9 +2,11 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *The jian, also known as the "bird that shares wings", only possesses one wing. Unless a male and female pair learn to lean on each other and act as one, they’re incapable of flight. They’re imperfect, incomplete creatures. But for some reason… their way of life struck me as profoundly beautiful.*  
+> *Remember what someone told you not long ago?*  
+> *That you could handle the stories because they weren't your own. That you were able to bear the tragedies because they happened to others.*  
+> *If that had been your suffering... if the secrets you had kept buried away for so long had come out... you couldn't possibly have endured it.*  
 >
 >
-> — **Darling in the Franxx.**
+> — **The House in Fata Morgana.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-02-03T02:39:12.027229+00:00 -->
+<!-- last updated: 2026-02-04T02:33:24.409518+00:00 -->
