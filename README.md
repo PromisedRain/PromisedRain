@@ -2,11 +2,15 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Remember what someone told you not long ago?*  
-> *That you could handle the stories because they weren't your own. That you were able to bear the tragedies because they happened to others.*  
-> *If that had been your suffering... if the secrets you had kept buried away for so long had come out... you couldn't possibly have endured it.*  
+> *Rather than showing you the world.*  
+> *One day—*  
+> *Someday—*  
+> *I'd like to bring you somewhere.*  
+> *Where your body and spirit can rest easy.*  
+> *Not as atonement for my sins,*  
+> *But because I want to see it too.*  
 >
 >
-> — **The House in Fata Morgana.**
+> — **The House in Fata Morgana: A Requiem for Innocence.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-02-04T02:33:24.409518+00:00 -->
+<!-- last updated: 2026-02-05T02:35:07.895107+00:00 -->
