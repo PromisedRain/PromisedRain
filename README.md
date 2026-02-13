@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *We are guardians, but also a bunch of miserable wretches that are constantly fighting against threats and madness.*  
+> *A prayer cannot be born out of those who know nothing but joy. Oh child of suffering, cursing life itself... Certainly there is something only you can do.*  
 >
 >
-> — **Cuttlefish That Loves Diving, Lord of the Mysteries.**
+> — **Made in Abyss.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-02-12T02:45:16.003766+00:00 -->
+<!-- last updated: 2026-02-13T02:46:06.865744+00:00 -->
