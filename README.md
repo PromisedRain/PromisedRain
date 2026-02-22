@@ -2,11 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Perhaps she will be a butterfly resting upon the lip of a flower.*  
-> *Perhaps she will be that flower.*  
-> *Perhaps she will be the breeze in which that flower sways.*  
+> *To come to acceptance with things and feelings is rare, and to accept and embrace them completely is a miracle. It's impossible to make that moment come faster by yourself. Someday, it may come unexpectedly. In order to not become warped or heartless, let it go in a natural way; let yourself feel sad when you are and let yourself forget when you do.*  
 >
 >
-> — **The House in Fata Morgana.**
+> — **Haruko Ichikawa, 宝石の国 [Houseki No Kuni].**
 <!--QUOTE_END-->
-<!-- last updated: 2026-02-21T02:29:04.840622+00:00 -->
+<!-- last updated: 2026-02-22T02:41:56.582220+00:00 -->
