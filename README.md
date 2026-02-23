@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *To come to acceptance with things and feelings is rare, and to accept and embrace them completely is a miracle. It's impossible to make that moment come faster by yourself. Someday, it may come unexpectedly. In order to not become warped or heartless, let it go in a natural way; let yourself feel sad when you are and let yourself forget when you do.*  
+> *I said that the world is absurd, but I was too hasty. This world in itself is not reasonable, that is all that can be said. But what is absurd is the confrontation of this irrational and the wild longing for clarity whose call echoes in the human heart. The absurd depends as much on man as on the world.*  
 >
 >
-> — **Haruko Ichikawa, 宝石の国 [Houseki No Kuni].**
+> — **Albert Camus, The Myth of Sisyphus.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-02-22T02:41:56.582220+00:00 -->
+<!-- last updated: 2026-02-23T02:42:12.128284+00:00 -->
