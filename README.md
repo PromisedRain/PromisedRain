@@ -2,15 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Rather than showing you the world.*  
-> *One day—*  
-> *Someday—*  
-> *I'd like to bring you somewhere.*  
-> *Where your body and spirit can rest easy.*  
-> *Not as atonement for my sins,*  
-> *But because I want to see it too.*  
+> *We are guardians, but also a bunch of miserable wretches that are constantly fighting against threats and madness.*  
 >
 >
-> — **The House in Fata Morgana: A Requiem for Innocence.**
+> — **Cuttlefish That Loves Diving, Lord of the Mysteries.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-02-25T02:39:48.631784+00:00 -->
+<!-- last updated: 2026-02-26T02:35:06.181456+00:00 -->
