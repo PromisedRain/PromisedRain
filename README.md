@@ -2,9 +2,13 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *We are guardians, but also a bunch of miserable wretches that are constantly fighting against threats and madness.*  
+> *I believe those three days,*  
+> *compared to the tragic thirty years I would have lived,*  
+>
+> *compared to the worthwhile thirty days I would have lived,*  
+> *were of much, much more value.*  
 >
 >
-> — **Cuttlefish That Loves Diving, Lord of the Mysteries.**
+> — **Sugaru Miaki, Three Days of Happiness.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-02-26T02:35:06.181456+00:00 -->
+<!-- last updated: 2026-02-27T02:34:00.789816+00:00 -->
