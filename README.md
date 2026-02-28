@@ -2,13 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *I believe those three days,*  
-> *compared to the tragic thirty years I would have lived,*  
->
-> *compared to the worthwhile thirty days I would have lived,*  
-> *were of much, much more value.*  
+> *At the end of the day, there's no one right way to live our lives, the best we can do is pick a path and run down it as fast as we can to see how far we can get in the time that's given to us.*  
 >
 >
-> — **Sugaru Miaki, Three Days of Happiness.**
+> — **The Tunnel To Summer, The Exit of Goodbyes.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-02-27T02:34:00.789816+00:00 -->
+<!-- last updated: 2026-02-28T02:24:04.729306+00:00 -->
