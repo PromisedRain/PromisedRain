@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *At the end of the day, there's no one right way to live our lives, the best we can do is pick a path and run down it as fast as we can to see how far we can get in the time that's given to us.*  
+> *A prayer cannot be born out of those who know nothing but joy. Oh child of suffering, cursing life itself... Certainly there is something only you can do.*  
 >
 >
-> — **The Tunnel To Summer, The Exit of Goodbyes.**
+> — **Made in Abyss.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-02-28T02:24:04.729306+00:00 -->
+<!-- last updated: 2026-03-01T02:49:03.553381+00:00 -->
