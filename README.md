@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Someone like you, who is beloved even on the moon, could never understand what it feels like to be lonely.*  
+> *I wonder why god planted the tree of knowledge in the garden of Eden? it's as if he's telling them to eat it.*  
 >
 >
-> — **Haruko Ichikawa, 宝石の国 [Houseki No Kuni].**
+> — **Tokyo Ghoul.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-03-02T02:37:03.841942+00:00 -->
+<!-- last updated: 2026-03-03T02:39:43.329519+00:00 -->
