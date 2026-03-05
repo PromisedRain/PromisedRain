@@ -2,15 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Rather than showing you the world.*  
-> *One day—*  
-> *Someday—*  
-> *I'd like to bring you somewhere.*  
-> *Where your body and spirit can rest easy.*  
-> *Not as atonement for my sins,*  
-> *But because I want to see it too.*  
+> *We never forget what we endeavor to forget.*  
 >
 >
-> — **The House in Fata Morgana: A Requiem for Innocence.**
+> — **Nietzsche.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-03-04T02:32:02.734459+00:00 -->
+<!-- last updated: 2026-03-05T02:35:10.380968+00:00 -->
