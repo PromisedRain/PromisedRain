@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *We never forget what we endeavor to forget.*  
+> *A prayer cannot be born out of those who know nothing but joy. Oh child of suffering, cursing life itself... Certainly there is something only you can do.*  
 >
 >
-> — **Nietzsche.**
+> — **Made in Abyss.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-03-11T02:30:50.752429+00:00 -->
+<!-- last updated: 2026-03-12T02:36:50.506912+00:00 -->
