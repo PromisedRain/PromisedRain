@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *A prayer cannot be born out of those who know nothing but joy. Oh child of suffering, cursing life itself... Certainly there is something only you can do.*  
+> *I said that the world is absurd, but I was too hasty. This world in itself is not reasonable, that is all that can be said. But what is absurd is the confrontation of this irrational and the wild longing for clarity whose call echoes in the human heart. The absurd depends as much on man as on the world.*  
 >
 >
-> — **Made in Abyss.**
+> — **Albert Camus, The Myth of Sisyphus.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-03-12T02:36:50.506912+00:00 -->
+<!-- last updated: 2026-03-13T02:34:40.192808+00:00 -->
