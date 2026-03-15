@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Someone like you, who is beloved even on the moon, could never understand what it feels like to be lonely.*  
+> *A prayer cannot be born out of those who know nothing but joy. Oh child of suffering, cursing life itself... Certainly there is something only you can do.*  
 >
 >
-> — **Haruko Ichikawa, 宝石の国 [Houseki No Kuni].**
+> — **Made in Abyss.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-03-14T02:32:49.674841+00:00 -->
+<!-- last updated: 2026-03-15T02:53:34.350648+00:00 -->
