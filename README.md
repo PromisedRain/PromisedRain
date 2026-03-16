@@ -2,9 +2,7 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *A prayer cannot be born out of those who know nothing but joy. Oh child of suffering, cursing life itself... Certainly there is something only you can do.*  
+> *Never regret thy fall, O Icarus of the fearless flight, for the greatest tragedy of them all, is never to feel the burning light.*  
 >
->
-> — **Made in Abyss.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-03-15T02:53:34.350648+00:00 -->
+<!-- last updated: 2026-03-16T02:53:57.296350+00:00 -->
