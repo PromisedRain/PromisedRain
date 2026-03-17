@@ -2,7 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Never regret thy fall, O Icarus of the fearless flight, for the greatest tragedy of them all, is never to feel the burning light.*  
+> *We are guardians, but also a bunch of miserable wretches that are constantly fighting against threats and madness.*  
 >
+>
+> — **Cuttlefish That Loves Diving, Lord of the Mysteries.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-03-16T02:53:57.296350+00:00 -->
+<!-- last updated: 2026-03-17T02:36:42.270123+00:00 -->
