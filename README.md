@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *We are guardians, but also a bunch of miserable wretches that are constantly fighting against threats and madness.*  
+> *The jian, also known as the "bird that shares wings", only possesses one wing. Unless a male and female pair learn to lean on each other and act as one, they’re incapable of flight. They’re imperfect, incomplete creatures. But for some reason… their way of life struck me as profoundly beautiful.*  
 >
 >
-> — **Cuttlefish That Loves Diving, Lord of the Mysteries.**
+> — **Darling in the Franxx.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-03-17T02:36:42.270123+00:00 -->
+<!-- last updated: 2026-03-18T02:43:08.269197+00:00 -->
