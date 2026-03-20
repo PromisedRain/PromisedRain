@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *At the end of the day, there's no one right way to live our lives, the best we can do is pick a path and run down it as fast as we can to see how far we can get in the time that's given to us.*  
+> *It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of light, it was the season of darkness, it was the spring of hope, it was the winter of despair.*  
 >
 >
-> — **The Tunnel To Summer, The Exit of Goodbyes.**
+> — **Charles Dickens, A Tale of Two Cities.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-03-19T02:44:41.224340+00:00 -->
+<!-- last updated: 2026-03-20T02:35:15.587457+00:00 -->
