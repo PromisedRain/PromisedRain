@@ -2,9 +2,13 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *To come to acceptance with things and feelings is rare, and to accept and embrace them completely is a miracle. It's impossible to make that moment come faster by yourself. Someday, it may come unexpectedly. In order to not become warped or heartless, let it go in a natural way; let yourself feel sad when you are and let yourself forget when you do.*  
+> *I believe those three days,*  
+> *compared to the tragic thirty years I would have lived,*  
+>
+> *compared to the worthwhile thirty days I would have lived,*  
+> *were of much, much more value.*  
 >
 >
-> — **Haruko Ichikawa, 宝石の国 [Houseki No Kuni].**
+> — **Sugaru Miaki, Three Days of Happiness.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-03-23T02:45:38.576163+00:00 -->
+<!-- last updated: 2026-03-24T02:37:06.547033+00:00 -->
