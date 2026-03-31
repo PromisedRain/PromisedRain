@@ -2,11 +2,7 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Perhaps she will be a butterfly resting upon the lip of a flower.*  
-> *Perhaps she will be that flower.*  
-> *Perhaps she will be the breeze in which that flower sways.*  
+> *Never regret thy fall, O Icarus of the fearless flight, for the greatest tragedy of them all, is never to feel the burning light.*  
 >
->
-> — **The House in Fata Morgana.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-03-30T03:16:53.055407+00:00 -->
+<!-- last updated: 2026-03-31T02:50:57.978559+00:00 -->
