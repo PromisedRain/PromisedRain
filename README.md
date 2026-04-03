@@ -2,11 +2,7 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Remember what someone told you not long ago?*  
-> *That you could handle the stories because they weren't your own. That you were able to bear the tragedies because they happened to others.*  
-> *If that had been your suffering... if the secrets you had kept buried away for so long had come out... you couldn't possibly have endured it.*  
+> *Never regret thy fall, O Icarus of the fearless flight, for the greatest tragedy of them all, is never to feel the burning light.*  
 >
->
-> — **The House in Fata Morgana.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-04-02T02:47:07.319111+00:00 -->
+<!-- last updated: 2026-04-03T02:49:55.400533+00:00 -->
