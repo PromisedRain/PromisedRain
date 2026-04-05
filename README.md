@@ -2,13 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *I believe those three days,*  
-> *compared to the tragic thirty years I would have lived,*  
->
-> *compared to the worthwhile thirty days I would have lived,*  
-> *were of much, much more value.*  
+> *The jian, also known as the "bird that shares wings", only possesses one wing. Unless a male and female pair learn to lean on each other and act as one, they’re incapable of flight. They’re imperfect, incomplete creatures. But for some reason… their way of life struck me as profoundly beautiful.*  
 >
 >
-> — **Sugaru Miaki, Three Days of Happiness.**
+> — **Darling in the Franxx.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-04-04T02:40:11.237448+00:00 -->
+<!-- last updated: 2026-04-05T03:15:51.935727+00:00 -->
