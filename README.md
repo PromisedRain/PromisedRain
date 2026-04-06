@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *The jian, also known as the "bird that shares wings", only possesses one wing. Unless a male and female pair learn to lean on each other and act as one, they’re incapable of flight. They’re imperfect, incomplete creatures. But for some reason… their way of life struck me as profoundly beautiful.*  
+> *I wonder why god planted the tree of knowledge in the garden of Eden? it's as if he's telling them to eat it.*  
 >
 >
-> — **Darling in the Franxx.**
+> — **Tokyo Ghoul.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-04-05T03:15:51.935727+00:00 -->
+<!-- last updated: 2026-04-06T03:19:02.644268+00:00 -->
