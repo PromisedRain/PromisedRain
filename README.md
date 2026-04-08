@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *The jian, also known as the "bird that shares wings", only possesses one wing. Unless a male and female pair learn to lean on each other and act as one, they’re incapable of flight. They’re imperfect, incomplete creatures. But for some reason… their way of life struck me as profoundly beautiful.*  
+> *You've also seen from Roselle's experience during this time that there is a lot of truth within dreams, that hope lies hidden at the end of despair, and that a moment's brilliance might point towards eternity.*  
 >
 >
-> — **Darling in the Franxx.**
+> — **Cuttlefish That Loves Diving, Lord of the Mysteries.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-04-07T02:52:25.030881+00:00 -->
+<!-- last updated: 2026-04-08T02:53:39.522663+00:00 -->
