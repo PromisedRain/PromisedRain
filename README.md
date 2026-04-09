@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *You've also seen from Roselle's experience during this time that there is a lot of truth within dreams, that hope lies hidden at the end of despair, and that a moment's brilliance might point towards eternity.*  
+> *I said that the world is absurd, but I was too hasty. This world in itself is not reasonable, that is all that can be said. But what is absurd is the confrontation of this irrational and the wild longing for clarity whose call echoes in the human heart. The absurd depends as much on man as on the world.*  
 >
 >
-> — **Cuttlefish That Loves Diving, Lord of the Mysteries.**
+> — **Albert Camus, The Myth of Sisyphus.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-04-08T02:53:39.522663+00:00 -->
+<!-- last updated: 2026-04-09T02:48:10.874295+00:00 -->
