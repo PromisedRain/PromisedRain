@@ -2,7 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Never regret thy fall, O Icarus of the fearless flight, for the greatest tragedy of them all, is never to feel the burning light.*  
+> *I wonder why god planted the tree of knowledge in the garden of Eden? it's as if he's telling them to eat it.*  
 >
+>
+> — **Tokyo Ghoul.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-04-15T03:17:49.125477+00:00 -->
+<!-- last updated: 2026-04-16T03:26:12.865997+00:00 -->
