@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *I wonder why god planted the tree of knowledge in the garden of Eden? it's as if he's telling them to eat it.*  
+> *You've also seen from Roselle's experience during this time that there is a lot of truth within dreams, that hope lies hidden at the end of despair, and that a moment's brilliance might point towards eternity.*  
 >
 >
-> — **Tokyo Ghoul.**
+> — **Cuttlefish That Loves Diving, Lord of the Mysteries.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-04-16T03:26:12.865997+00:00 -->
+<!-- last updated: 2026-04-17T03:20:58.892764+00:00 -->
