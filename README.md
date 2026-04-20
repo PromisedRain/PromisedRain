@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *At the end of the day, there's no one right way to live our lives, the best we can do is pick a path and run down it as fast as we can to see how far we can get in the time that's given to us.*  
+> *Eternity means nothing to me in a world where I don't exist anymore.*  
 >
 >
-> — **The Tunnel To Summer, The Exit of Goodbyes.**
+> — **Sugaru Miaki, Three Days of Happiness.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-04-19T03:27:53.755041+00:00 -->
+<!-- last updated: 2026-04-20T03:30:12.247079+00:00 -->
