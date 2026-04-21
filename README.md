@@ -2,9 +2,11 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Eternity means nothing to me in a world where I don't exist anymore.*  
+> *Remember what someone told you not long ago?*  
+> *That you could handle the stories because they weren't your own. That you were able to bear the tragedies because they happened to others.*  
+> *If that had been your suffering... if the secrets you had kept buried away for so long had come out... you couldn't possibly have endured it.*  
 >
 >
-> — **Sugaru Miaki, Three Days of Happiness.**
+> — **The House in Fata Morgana.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-04-20T03:30:12.247079+00:00 -->
+<!-- last updated: 2026-04-21T03:21:48.673967+00:00 -->
