@@ -2,9 +2,11 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *A prayer cannot be born out of those who know nothing but joy. Oh child of suffering, cursing life itself... Certainly there is something only you can do.*  
+> *Remember what someone told you not long ago?*  
+> *That you could handle the stories because they weren't your own. That you were able to bear the tragedies because they happened to others.*  
+> *If that had been your suffering... if the secrets you had kept buried away for so long had come out... you couldn't possibly have endured it.*  
 >
 >
-> — **Made in Abyss.**
+> — **The House in Fata Morgana.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-04-22T03:20:18.282926+00:00 -->
+<!-- last updated: 2026-04-23T03:23:45.111034+00:00 -->
