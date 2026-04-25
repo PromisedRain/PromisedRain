@@ -2,15 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Rather than showing you the world.*  
-> *One day—*  
-> *Someday—*  
-> *I'd like to bring you somewhere.*  
-> *Where your body and spirit can rest easy.*  
-> *Not as atonement for my sins,*  
-> *But because I want to see it too.*  
+> *I wonder why god planted the tree of knowledge in the garden of Eden? it's as if he's telling them to eat it.*  
 >
 >
-> — **The House in Fata Morgana: A Requiem for Innocence.**
+> — **Tokyo Ghoul.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-04-24T03:26:12.698989+00:00 -->
+<!-- last updated: 2026-04-25T02:54:32.724373+00:00 -->
