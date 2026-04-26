@@ -2,9 +2,13 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *I wonder why god planted the tree of knowledge in the garden of Eden? it's as if he's telling them to eat it.*  
+> *I believe those three days,*  
+> *compared to the tragic thirty years I would have lived,*  
+>
+> *compared to the worthwhile thirty days I would have lived,*  
+> *were of much, much more value.*  
 >
 >
-> — **Tokyo Ghoul.**
+> — **Sugaru Miaki, Three Days of Happiness.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-04-25T02:54:32.724373+00:00 -->
+<!-- last updated: 2026-04-26T03:33:03.082402+00:00 -->
