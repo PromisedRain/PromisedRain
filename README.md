@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *I said that the world is absurd, but I was too hasty. This world in itself is not reasonable, that is all that can be said. But what is absurd is the confrontation of this irrational and the wild longing for clarity whose call echoes in the human heart. The absurd depends as much on man as on the world.*  
+> *We never forget what we endeavor to forget.*  
 >
 >
-> — **Albert Camus, The Myth of Sisyphus.**
+> — **Nietzsche.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-05-02T03:26:52.459511+00:00 -->
+<!-- last updated: 2026-05-03T03:47:12.862689+00:00 -->
