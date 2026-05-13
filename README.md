@@ -2,9 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *A prayer cannot be born out of those who know nothing but joy. Oh child of suffering, cursing life itself... Certainly there is something only you can do.*  
+> *You've also seen from Roselle's experience during this time that there is a lot of truth within dreams, that hope lies hidden at the end of despair, and that a moment's brilliance might point towards eternity.*  
 >
 >
-> — **Made in Abyss.**
+> — **Cuttlefish That Loves Diving, Lord of the Mysteries.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-05-12T03:44:05.471710+00:00 -->
+<!-- last updated: 2026-05-13T03:53:12.910528+00:00 -->
