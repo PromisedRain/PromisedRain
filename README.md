@@ -2,9 +2,13 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *You've also seen from Roselle's experience during this time that there is a lot of truth within dreams, that hope lies hidden at the end of despair, and that a moment's brilliance might point towards eternity.*  
+> *I believe those three days,*  
+> *compared to the tragic thirty years I would have lived,*  
+>
+> *compared to the worthwhile thirty days I would have lived,*  
+> *were of much, much more value.*  
 >
 >
-> — **Cuttlefish That Loves Diving, Lord of the Mysteries.**
+> — **Sugaru Miaki, Three Days of Happiness.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-05-26T04:04:07.105151+00:00 -->
+<!-- last updated: 2026-05-27T04:17:49.058750+00:00 -->
