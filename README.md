@@ -2,9 +2,11 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of light, it was the season of darkness, it was the spring of hope, it was the winter of despair.*  
+> *Remember what someone told you not long ago?*  
+> *That you could handle the stories because they weren't your own. That you were able to bear the tragedies because they happened to others.*  
+> *If that had been your suffering... if the secrets you had kept buried away for so long had come out... you couldn't possibly have endured it.*  
 >
 >
-> — **Charles Dickens, A Tale of Two Cities.**
+> — **The House in Fata Morgana.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-06-08T04:40:22.843869+00:00 -->
+<!-- last updated: 2026-06-09T04:01:24.109267+00:00 -->
