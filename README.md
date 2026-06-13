@@ -2,15 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *Rather than showing you the world.*  
-> *One day—*  
-> *Someday—*  
-> *I'd like to bring you somewhere.*  
-> *Where your body and spirit can rest easy.*  
-> *Not as atonement for my sins,*  
-> *But because I want to see it too.*  
+> *To come to acceptance with things and feelings is rare, and to accept and embrace them completely is a miracle. It's impossible to make that moment come faster by yourself. Someday, it may come unexpectedly. In order to not become warped or heartless, let it go in a natural way; let yourself feel sad when you are and let yourself forget when you do.*  
 >
 >
-> — **The House in Fata Morgana: A Requiem for Innocence.**
+> — **Haruko Ichikawa, 宝石の国 [Houseki No Kuni].**
 <!--QUOTE_END-->
-<!-- last updated: 2026-06-12T04:38:15.113863+00:00 -->
+<!-- last updated: 2026-06-13T04:16:49.439933+00:00 -->
