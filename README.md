@@ -2,13 +2,9 @@ working quietly on ████.
 
 
 <!--QUOTE_START-->
-> *I believe those three days,*  
-> *compared to the tragic thirty years I would have lived,*  
->
-> *compared to the worthwhile thirty days I would have lived,*  
-> *were of much, much more value.*  
+> *We never forget what we endeavor to forget.*  
 >
 >
-> — **Sugaru Miaki, Three Days of Happiness.**
+> — **Nietzsche.**
 <!--QUOTE_END-->
-<!-- last updated: 2026-06-20T04:10:09.482694+00:00 -->
+<!-- last updated: 2026-06-21T04:52:04.416690+00:00 -->
